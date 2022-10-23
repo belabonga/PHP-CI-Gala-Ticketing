@@ -1,0 +1,689 @@
+<html lang="en"><head>
+    <title>About | TunnelBear</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+
+
+
+
+<meta name="description" content="TunnelBear believes in simple privacy for everyone. Browse a safe &amp; secure internet with TunnelBear's privacy apps.">
+
+<!-- Google site verification -->
+<meta name="google-site-verification" content="1izKthyFEqt4hjBltOZENIb4NqUbt-Dl24btXt0iMkY">
+<meta name="google-site-verification" content="4ysmD1nz9J0cg3BGGnSq-qSFlm7jnRVJXz30lpd0hMg">
+<meta name="globalsign-domain-verification" content="QIYEzva06-wdy0hlV_Qo1K2TG21m3yufsPqpZLArq4">
+
+<!-- Twitter cards -->
+<meta name="twitter:card" content="app">
+<meta name="twitter:site" content="@theTunnelBear">
+<meta name="twitter:title" content="About | TunnelBear">
+<meta name="twitter:image" content="https://www.tunnelbear.com/images/share_graphic.jpg">
+<meta name="twitter:description" content="TunnelBear believes in simple privacy for everyone. Browse a safe &amp; secure internet with TunnelBear's privacy apps.">
+
+
+  <meta name="twitter:app:name:iphone" content="TunnelBear VPN">
+  <meta name="twitter:app:id:iphone" content="564842283">
+  <meta name="twitter:app:name:ipad" content="TunnelBear VPN">
+  <meta name="twitter:app:id:ipad" content="564842283">
+  <meta name="twitter:app:name:googleplay" content="TunnelBear VPN">
+  <meta name="twitter:app:id:googleplay" content="com.tunnelbear.android">
+
+
+<!-- Chrome extension -->
+<link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/omdakjcmkglenbhjadbccaookpfjihpa">
+
+<!-- Schema.org markup for Google+ -->
+<meta itemprop="name" content="About | TunnelBear">
+<meta itemprop="description" content="TunnelBear believes in simple privacy for everyone. Browse a safe &amp; secure internet with TunnelBear's privacy apps.">
+<meta itemprop="image" content="https://www.tunnelbear.com/images/share_graphic.jpg">
+
+<!-- Open Graph data / FB -->
+<meta property="og:title" content="About | TunnelBear">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://www.tunnelbear.com/about">
+<meta property="og:image" content="https://www.tunnelbear.com/images/share_graphic.jpg">
+<meta property="og:description" content="TunnelBear believes in simple privacy for everyone. Browse a safe &amp; secure internet with TunnelBear's privacy apps.">
+<meta property="og:site_name" content="TunnelBear">
+
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/favicon-194x194.png" sizes="194x194">
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#715942">
+<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+    <link rel="canonical" href="https://www.tunnelbear.com/about">
+
+    
+      <meta name="robots" content="index, follow">
+      <script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-P3MGBP"></script><script src="https://cdn.optimizely.com/js/2430720082.js"></script>
+      <!-- Google Tag Manager -->
+      <noscript>&lt;iframe src="//www.googletagmanager.com/ns.html?id=GTM-P3MGBP"
+      height="0" width="0" style="display:none;visibility:hidden"&gt;&lt;/iframe&gt;</noscript>
+      <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-P3MGBP');</script>
+      <!-- End Google Tag Manager -->
+    
+
+    
+      <link rel="stylesheet" href="/stylesheets/tb.d4832f36ff7ea963.css">
+    
+
+    <script type="text/javascript" src="/bower_components/jquery/dist/jquery.min.js"></script>
+    <script type="text/javascript" src="/bower_components/jquery-cookie/jquery.cookie.js"></script>
+    <script type="text/javascript" src="/javascripts/shared.js"></script>
+
+    <!-- SEO Schema Markups -->
+    <script type="application/ld+json">
+      {
+        "@context": "http://schema.org/",
+        "@type": "SoftwareApplication",
+        "applicationCategory": "WebApplication",
+        "applicationSubCategory": "VPN Service",
+        "name": "TunnelBear",
+        "operatingSystem": "IOS, ANDROID, OSX, PC, CHROME",
+        "downloadUrl": "https://www.tunnelbear.com/download",
+        "description": "Simply VPN privacy apps for every device.",
+        "screenshot": "https://www.tunnelbear.com/images/apps/apps_1_mac@2x.png"
+      }
+    </script>
+
+    <script type="application/ld+json">
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "name": "TunnelBear",
+        "url": "https://www.tunnelbear.com",
+        "logo": "https://www.tunnelbear.com/images/header_logo@2x.png",
+        "sameAs": [
+          "https://www.facebook.com/tunnelbear",
+          "https://www.twitter.com/thetunnelbear",
+          "https://www.linkedin.com/company/tunnelbear"
+        ]
+      }
+    </script>
+  </head>
+  <body class="sale nav-visible desktop ">
+    <div id="global-wrapper">
+      <div id="dummy-header" style="height: 88px; display: none;"></div>
+<header id="main-header" style="opacity: 0;" class="">
+  <div class="compact static">
+    <div class="nav">
+      <a id="logo" href="/" title="TunnelBear VPN"></a>
+      <div id="menu-toggle">Menu</div>
+    </div>
+    <div class="nav-public clearfix">
+      <ul class="menu">
+        <li><a href="/pricing" onclick="ga('send', 'event', 'button', 'top-menu-mobile', 'pricing');">Pricing</a></li>
+        <li><a href="//help.tunnelbear.com/" rel="nofollow" onclick="ga('send', 'event', 'button', 'top-menu-mobile', 'help');">Help</a></li>
+        <li><a href="/download">Download</a></li>
+        <li><a href="/account#/login" onclick="ga('send', 'event', 'button', 'top-menu-mobile', 'login');">Sign In</a></li>
+      </ul>
+    </div>
+    <div class="nav-private clearfix">
+      <ul class="menu">
+        <li><a href="/account#/gift" onclick="ga('send', 'event', 'button', 'top-menu', 'gift');">Gift</a></li>
+        <li><a href="/pricing" onclick="ga('send', 'event', 'button', 'top-menu-mobile', 'pricing');">Pricing</a></li>
+        <li><a href="//help.tunnelbear.com/" rel="nofollow" onclick="ga('send', 'event', 'button', 'top-menu-mobile', 'help');">Help</a></li>
+        <li><a href="/account#/overview" onclick="ga('send', 'event', 'button', 'top-menu-mobile', 'my-account');">My Account</a></li>
+        <li><a href="/download">Download</a></li>
+        <li><a class="logout">Sign Out</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="compact rolling">
+    <div class="info">
+      
+        <p>TunnelBear for iOS</p>
+        <p>Get it free on the App Store</p>
+      
+    </div>
+    
+      <a class="btn" href="//geo.itunes.apple.com/app/tunnelbear-vpn-unblock-websites/id564842283?mt=8&amp;at=1010l9nk" onclick="ga('send', 'event', 'button', 'download-click', 'download-menu-mobile');">Download</a>
+    
+  </div>
+
+  <div class="full">
+    <a id="logo" href="/" title="TunnelBear VPN"></a>
+    <div class="nav-public clearfix">
+      <ul>
+        <li><a href="/pricing" onclick="ga('send', 'event', 'button', 'top-menu', 'pricing');">Pricing</a></li>
+        <li><a href="//help.tunnelbear.com/" onclick="ga('send', 'event', 'button', 'top-menu', 'help');">Help</a></li>
+        <li class="tight"><a href="/download" class="btn btn-nav" onclick="ga('send', 'event', 'button', 'download-click', 'download-menu');">Download</a></li>
+        <li><a class="btn btn-nav btn-hollow" href="/account#/login" onclick="ga('send', 'event', 'button', 'top-menu', 'login');">Sign In</a></li>
+      </ul>
+    </div>
+    <div class="nav-private clearfix">
+      <ul>
+        <li><a href="/account#/gift" onclick="ga('send', 'event', 'button', 'top-menu', 'gift');">Gift</a></li>
+        <li><a href="/pricing" onclick="ga('send', 'event', 'button', 'top-menu', 'pricing');">Pricing</a></li>
+        <li><a href="//help.tunnelbear.com/" onclick="ga('send', 'event', 'button', 'top-menu', 'help');">Help</a></li>
+        <li><a href="/account#/overview" onclick="ga('send', 'event', 'button', 'top-menu', 'my-account');">My Account</a></li>
+        <li class="tight"><a class="btn btn-nav" href="/download" onclick="ga('send', 'event', 'button', 'download-click', 'download-menu');">Download</a></li>
+        <li><a href="javascript:void()" class="btn btn-nav btn-hollow logout">Sign Out</a></li>
+      </ul>
+    </div>
+  </div>
+</header>
+
+        
+<div id="about-wrap">
+  <section class="top-ribbon">
+    <h1>About TunnelBear</h1>
+  </section>
+
+  <section id="main-copy">
+    <div class="container">
+      <h2>Simple privacy for everyone</h2>
+      <p class="col-xs-12 col-md-10 col-md-offset-1">
+        We think the Internet is a much better place when everyone can browse
+        privately, and browse the same Internet as everyone else. TunnelBear wants
+        to bring the benefits of privacy to everyone with our incredibly simple&nbsp;apps.
+      </p>
+    </div>
+  </section>
+
+  <section id="bear-team">
+    <div class="container">
+      <h2>Meet the Bears</h2>
+      
+      <div id="profile-wrap">
+        <div style="overflow: hidden;">
+          
+            <div class="bear-profile col-xs-12 col-md-6">
+              <div class="bearatar">
+                <img class="regular-avatar" src="images/bearatars/corpbear.jpg" alt="Employee Avatar">
+                <img class="retina-avatar" src="images/bearatars/corpbear@2x.jpg" alt="Employee Avatar">
+              </div>
+              <div class="bear-info">
+                <h4>Corp. Bear </h4>
+                <p class="name">Ryan Dochuk</p>
+                <p class="bio small-copy">Since Cofounding TunnelBear, I’ve personally supervised the amount of bears and puns in every product. With plenty of hard work, our team has introduced online privacy to millions of people around the world. Previously I managed products at Microsoft and a mobile security startup.</p>
+              </div>
+            </div>
+          
+            <div class="bear-profile col-xs-12 col-md-6">
+              <div class="bearatar">
+                <img class="regular-avatar" src="images/bearatars/quantumbear.jpg" alt="Employee Avatar">
+                <img class="retina-avatar" src="images/bearatars/quantumbear@2x.jpg" alt="Employee Avatar">
+              </div>
+              <div class="bear-info">
+                <h4>Quantum Bear </h4>
+                <p class="name">Daniel Kaldor</p>
+                <p class="bio small-copy">Cofounder of TunnelBear. I architect the TunnelBear tunnels. Previously I built and sold a mobile application company called CC Apps. I've also worked at RIM, Goldman Sachs and studied Math at&nbsp;Cambridge.</p>
+              </div>
+            </div>
+          
+            <div class="bear-profile col-xs-12 col-md-6">
+              <div class="bearatar">
+                <img class="regular-avatar" src="images/bearatars/ibear.jpg" alt="Employee Avatar">
+                <img class="retina-avatar" src="images/bearatars/ibear@2x.jpg" alt="Employee Avatar">
+              </div>
+              <div class="bear-info">
+                <h4>iBear </h4>
+                <p class="name">Ivan Sergeyenko</p>
+                <p class="bio small-copy">Partner at TunnelBear. While my true love is developing for anything Apple, at TunnelBear I work on just about everything. Previously, I cofounded another company (CatPig Studios) and lead development at Wave Accounting among other startups. I studied Computer Science at&nbsp;Waterloo.</p>
+              </div>
+            </div>
+          
+            <div class="bear-profile col-xs-12 col-md-6">
+              <div class="bearatar">
+                <img class="regular-avatar" src="images/bearatars/pixelbear.jpg" alt="Employee Avatar">
+                <img class="retina-avatar" src="images/bearatars/pixelbear@2x.jpg" alt="Employee Avatar">
+              </div>
+              <div class="bear-info">
+                <h4>Pixel Bear </h4>
+                <p class="name">Andrew W.</p>
+                <p class="bio small-copy">Designer at TunnelBear. I draw lots and lots of bears. Previously, I’ve designed pretty much everything across print, web and mobile design for companies and agencies on brands such as Toyota and&nbsp;Lexus.</p>
+              </div>
+            </div>
+          
+            <div class="bear-profile col-xs-12 col-md-6">
+              <div class="bearatar">
+                <img class="regular-avatar" src="images/bearatars/paddlebear.jpg" alt="Employee Avatar">
+                <img class="retina-avatar" src="images/bearatars/paddlebear@2x.jpg" alt="Employee Avatar">
+              </div>
+              <div class="bear-info">
+                <h4>Paddle Bear </h4>
+                <p class="name">Rodrigue H.</p>
+                <p class="bio small-copy">Developer at TunnelBear. When I'm not dominating the office Ping Pong table, I ship beautiful apps. So if you see an animated bear that perfectly fits your screen walking, roaring and protecting your privacy - that's my work. I also have a masters in Computer&nbsp;Science.</p>
+              </div>
+            </div>
+          
+            <div class="bear-profile col-xs-12 col-md-6">
+              <div class="bearatar">
+                <img class="regular-avatar" src="images/bearatars/smokeybear.jpg" alt="Employee Avatar">
+                <img class="retina-avatar" src="images/bearatars/smokeybear@2x.jpg" alt="Employee Avatar">
+              </div>
+              <div class="bear-info">
+                <h4>Smokey Bear </h4>
+                <p class="name">John R.</p>
+                <p class="bio small-copy">Marketing and Bear Ops. When I’m not coming up with new bear puns, I spend my time cooking and eating delicious&nbsp;food.</p>
+              </div>
+            </div>
+          
+            <div class="bear-profile col-xs-12 col-md-6">
+              <div class="bearatar">
+                <img class="regular-avatar" src="images/bearatars/toquebear.jpg" alt="Employee Avatar">
+                <img class="retina-avatar" src="images/bearatars/toquebear@2x.jpg" alt="Employee Avatar">
+              </div>
+              <div class="bear-info">
+                <h4>Toque Bear </h4>
+                <p class="name">Alex L.</p>
+                <p class="bio small-copy">Having been possessed by the evil lord beardemort, I've been forced to wear a toque to conceal his noseless face on the back of my fuzzy head. Bear of all trades, I work predominately on the backend, making sure our bears get the food they need. I studied Software Engineering at Waterloo.</p>
+              </div>
+            </div>
+          
+            <div class="bear-profile col-xs-12 col-md-6">
+              <div class="bearatar">
+                <img class="regular-avatar" src="images/bearatars/carebear.jpg" alt="Employee Avatar">
+                <img class="retina-avatar" src="images/bearatars/carebear@2x.jpg" alt="Employee Avatar">
+              </div>
+              <div class="bear-info">
+                <h4>Care Bear </h4>
+                <p class="name">Owen L.</p>
+                <p class="bio small-copy">Bear Support. Sunshine, lollipops and rawrs! I'm all about making your TunnelBear experience a happy one. Need help with your bear? We'll probably cross paths! Also, I'm the only Welsh bear in town, Iechyd&nbsp;da!</p>
+              </div>
+            </div>
+          
+            <div class="bear-profile col-xs-12 col-md-6">
+              <div class="bearatar">
+                <img class="regular-avatar" src="images/bearatars/winniethemu.jpg" alt="Employee Avatar">
+                <img class="retina-avatar" src="images/bearatars/winniethemu@2x.jpg" alt="Employee Avatar">
+              </div>
+              <div class="bear-info">
+                <h4>Winnie the Mu </h4>
+                <p class="name">Mu Y.</p>
+                <p class="bio small-copy">Developer at TunnelBear. With a background in computer science and a passion for design, my work mostly involves creating fun and intuitive UIs in the browser. Outside of the bear cave, I like to travel and go skiing in the mountains.</p>
+              </div>
+            </div>
+          
+            <div class="bear-profile col-xs-12 col-md-6">
+              <div class="bearatar">
+                <img class="regular-avatar" src="images/bearatars/yogibear.jpg" alt="Employee Avatar">
+                <img class="retina-avatar" src="images/bearatars/yogibear@2x.jpg" alt="Employee Avatar">
+              </div>
+              <div class="bear-info">
+                <h4>Yogi Bear </h4>
+                <p class="name">Jill W.</p>
+                <p class="bio small-copy">Marketing, Customer Acquisition. Outside of the bear cave, I like to stretch, play and consume greens. I have a sensible fear of pigeons and a masters in Business.</p>
+              </div>
+            </div>
+          
+            <div class="bear-profile col-xs-12 col-md-6">
+              <div class="bearatar">
+                <img class="regular-avatar" src="images/bearatars/raedbear.jpg" alt="Employee Avatar">
+                <img class="retina-avatar" src="images/bearatars/raedbear@2x.jpg" alt="Employee Avatar">
+              </div>
+              <div class="bear-info">
+                <h4><object data="images/bearatars/raedbear.svg" type="image/svg+xml">RaedbeaR</object> </h4>
+                <p class="name">Raed M.</p>
+                <p class="bio small-copy">Droid bear. Welcomed in off of the streets, I came in as a young, ambitious cub and was nursed into a wild and dangerous bear. Since starting here, I've come to love board games, ping pong, and privacy. Studied Computer Engineering at Waterloo.</p>
+              </div>
+            </div>
+          
+            <div class="bear-profile col-xs-12 col-md-6">
+              <div class="bearatar">
+                <img class="regular-avatar" src="images/bearatars/basedbear.jpg" alt="Employee Avatar">
+                <img class="retina-avatar" src="images/bearatars/basedbear@2x.jpg" alt="Employee Avatar">
+              </div>
+              <div class="bear-info">
+                <h4>Based Bear </h4>
+                <p class="name">Marcus O.</p>
+                <p class="bio small-copy">iDevelobear. Waterloo Computer Engineering and one of the bear trainers in the cave. I mostly spend my time providing digital habitats for all TunnelBears and BlockBears on iOS and OS X.</p>
+              </div>
+            </div>
+          
+            <div class="bear-profile col-xs-12 col-md-6">
+              <div class="bearatar">
+                <img class="regular-avatar" src="images/bearatars/tribearatops.jpg" alt="Employee Avatar">
+                <img class="retina-avatar" src="images/bearatars/tribearatops@2x.jpg" alt="Employee Avatar">
+              </div>
+              <div class="bear-info">
+                <h4>Tribearatops </h4>
+                <p class="name">Allison M.</p>
+                <p class="bio small-copy">Support Bear &amp; Community Manager. Love using data and problem solving to help others. Enjoy roaring outdoors, playing with words, and dreaming of space dinosaurs. I also have a masters in Sociology and a PhD in snacking.</p>
+              </div>
+            </div>
+          
+            <div class="bear-profile col-xs-12 col-md-6">
+              <div class="bearatar">
+                <img class="regular-avatar" src="images/bearatars/vectorbear.jpg" alt="Employee Avatar">
+                <img class="retina-avatar" src="images/bearatars/vectorbear@2x.jpg" alt="Employee Avatar">
+              </div>
+              <div class="bear-info">
+                <h4>Vector Bear </h4>
+                <p class="name">Dennis K.</p>
+                <p class="bio small-copy">Designer at TunnelBear. Born and raised in the Russian Far East. Early in life developed a deep-seated aversion to poorly designed things. Couldn't let it go ever since. Outside of the bear cave, I'm an avid non-fiction reader and language learner.</p>
+              </div>
+            </div>
+          
+            <div class="bear-profile col-xs-12 col-md-6">
+              <div class="bearatar">
+                <img class="regular-avatar" src="images/bearatars/sunbear.jpg" alt="Employee Avatar">
+                <img class="retina-avatar" src="images/bearatars/sunbear@2x.jpg" alt="Employee Avatar">
+              </div>
+              <div class="bear-info">
+                <h4>Sun Bear </h4>
+                <p class="name">Claire C.</p>
+                <p class="bio small-copy">Marketing bear, resident boy band enthusiast and Nerf battle instigator. Seemingly immune to computer screen glare, I'm the only bear in the den that you'll find working next to a sunny window.</p>
+              </div>
+            </div>
+          
+            <div class="bear-profile col-xs-12 col-md-6">
+              <div class="bearatar">
+                <img class="regular-avatar" src="images/bearatars/motobear.jpg" alt="Employee Avatar">
+                <img class="retina-avatar" src="images/bearatars/motobear@2x.jpg" alt="Employee Avatar">
+              </div>
+              <div class="bear-info">
+                <h4>Moto Bear </h4>
+                <p class="name">April B.</p>
+                <p class="bio small-copy">DevOps at TunnelBear. I work to keep the servers online and secure in order to keep your traffic private. In my free time you’ll pawsibly find me at the archery club. If not, chances are I’ve lost my bearings while riding my cruiser into the sunset. Rawr, rawr rawr Rawr! I love the sound of that engine! Ride safe and keep the shiny side up.</p>
+              </div>
+            </div>
+          
+            <div class="bear-profile col-xs-12 col-md-6">
+              <div class="bearatar">
+                <img class="regular-avatar" src="images/bearatars/shutterbear.jpg" alt="Employee Avatar">
+                <img class="retina-avatar" src="images/bearatars/shutterbear@2x.jpg" alt="Employee Avatar">
+              </div>
+              <div class="bear-info">
+                <h4>Shutter Bear </h4>
+                <p class="name">Jared K.</p>
+                <p class="bio small-copy">Web Developer at TunnelBear. I spend most of my time tinkering with JavaScript and optimizing the website. When I'm not coding I'm most often seen with a camera in hand. An avid traveller and street photographer, I'm always rushing off to photograph some new corner of the world.</p>
+              </div>
+            </div>
+          
+            <div class="bear-profile col-xs-12 col-md-6">
+              <div class="bearatar">
+                <img class="regular-avatar" src="images/bearatars/campbear.jpg" alt="Employee Avatar">
+                <img class="retina-avatar" src="images/bearatars/campbear@2x.jpg" alt="Employee Avatar">
+              </div>
+              <div class="bear-info">
+                <h4>Camp Bear </h4>
+                <p class="name">Dane C.</p>
+                <p class="bio small-copy">Windows developer at TunnelBear. In the summer I enjoy going on canoe camping trips and relaxing at the cottage. When I'm not startling unsuspecting campers, you can find me exploring new places and foods, playing volleyball, or losing to Paddle Bear at ping pong. I studied Software Engineering at Waterloo.</p>
+              </div>
+            </div>
+          
+            <div class="bear-profile col-xs-12 col-md-6">
+              <div class="bearatar">
+                <img class="regular-avatar" src="images/bearatars/polerbear.jpg" alt="Employee Avatar">
+                <img class="retina-avatar" src="images/bearatars/polerbear@2x.jpg" alt="Employee Avatar">
+              </div>
+              <div class="bear-info">
+                <h4>Poler Bear </h4>
+                <p class="name">Azu S.</p>
+                <p class="bio small-copy">Operations Manager bear. I’m the money spender and a nerd for numbers and processes. I enjoy strength exercise in many forms in the north for warmth and awesomeness. I'm an inclusive bear that wants all bears to be feel part of the sleuth.</p>
+              </div>
+            </div>
+          
+            <div class="bear-profile col-xs-12 col-md-6">
+              <div class="bearatar">
+                <img class="regular-avatar" src="images/bearatars/velobear.jpg" alt="Employee Avatar">
+                <img class="retina-avatar" src="images/bearatars/velobear@2x.jpg" alt="Employee Avatar">
+              </div>
+              <div class="bear-info">
+                <h4>Velo Bear </h4>
+                <p class="name">Allison J.</p>
+                <p class="bio small-copy">Support Bear at Tunnelbear. All year round I participate in cycling events, either riding on a wooden velodrome, mountain biking &amp; road riding outside or kicking it at the local indoor bike park. When I’m not doing these things, I’m usually cycling for charity while raising money for organizations. I love technology, bow ties and more importantly a nice pie.</p>
+              </div>
+            </div>
+          
+            <div class="bear-profile col-xs-12 col-md-6">
+              <div class="bearatar">
+                <img class="regular-avatar" src="images/bearatars/obear-wan.jpg" alt="Employee Avatar">
+                <img class="retina-avatar" src="images/bearatars/obear-wan@2x.jpg" alt="Employee Avatar">
+              </div>
+              <div class="bear-info">
+                <h4>Obi-Wan KenoBear </h4>
+                <p class="name">Dave C.</p>
+                <p class="bio small-copy">Support Bear at TunnelBear. When I’m not off saving the galaxy from evil emperors and Sith lords, I’m offering support to my fellow bears! Occasionally I work on film sets, and I am an avid animator and gamer (and obviously a huge Star Wars fan). “May the bear be with you!”</p>
+              </div>
+            </div>
+          
+            <div class="bear-profile col-xs-12 col-md-6">
+              <div class="bearatar">
+                <img class="regular-avatar" src="images/bearatars/chiapetbear.jpg" alt="Employee Avatar">
+                <img class="retina-avatar" src="images/bearatars/chiapetbear@2x.jpg" alt="Employee Avatar">
+              </div>
+              <div class="bear-info">
+                <h4>Chiapet Bear </h4>
+                <p class="name">Jon C.</p>
+                <p class="bio small-copy">Operations engineer / developer. Helping to manage, configure, and scale the many servers and services we run to protect and secure your traffic! </p>
+              </div>
+            </div>
+          
+            <div class="bear-profile col-xs-12 col-md-6">
+              <div class="bearatar">
+                <img class="regular-avatar" src="images/bearatars/starbear.jpg" alt="Employee Avatar">
+                <img class="retina-avatar" src="images/bearatars/starbear@2x.jpg" alt="Employee Avatar">
+              </div>
+              <div class="bear-info">
+                <h4>Starbear </h4>
+                <p class="name">Ray D.</p>
+                <p class="bio small-copy">Designer at TunnelBear. Traversing the bear-iverse in a honey-powered high-tops. When I'm not connecting the dots between user needs, business strategy, and aesthetics, I'm connecting the dots with my paws on the dance floor.</p>
+              </div>
+            </div>
+          
+            <div class="bear-profile col-xs-12 col-md-6">
+              <div class="bearatar">
+                <img class="regular-avatar" src="images/bearatars/tatbear.jpg" alt="Employee Avatar">
+                <img class="retina-avatar" src="images/bearatars/tatbear@2x.jpg" alt="Employee Avatar">
+              </div>
+              <div class="bear-info">
+                <h4>Tattoo Bear </h4>
+                <p class="name">Eliot C.</p>
+                <p class="bio small-copy">Five years behind UW Computer Engineering bars has made me gruff, tough, and hardy. The experience has instilled in me a love for the back-end development and big data, and the ability to cram any subject in a single night. Outside the cave, I love to eat great food, and hope to someday own seventeen cats and fifteen dogs.</p>
+              </div>
+            </div>
+          
+            <div class="bear-profile col-xs-12 col-md-6">
+              <div class="bearatar">
+                <img class="regular-avatar" src="images/bearatars/jazzbear.jpg" alt="Employee Avatar">
+                <img class="retina-avatar" src="images/bearatars/jazzbear@2x.jpg" alt="Employee Avatar">
+              </div>
+              <div class="bear-info">
+                <h4>JazZz Bear (Co-op)</h4>
+                <p class="name">Andrew J.</p>
+                <p class="bio small-copy">Android develobear, and resident Bearless Whisper expert. I work late to make sure your Android app stays smooth, and your privacy stays saxy as always. I also crush bugs in my dreams, and make code behave with sweet, sweet jazz. Outside of the bear cave, I’m a diehard Halo fan and an avid sleeper, so wake me... when you need me.</p>
+              </div>
+            </div>
+          
+          <div class="bear-profile col-xs-12 col-md-6">
+            <div class="bearatar">
+              <img class="regular-avatar" src="images/bearatars/blankbear.jpg" alt="Employee Avatar">
+              <img class="retina-avatar" src="images/bearatars/blankbear@2x.jpg" alt="Employee Avatar">
+            </div>
+            <div class="bear-info">
+              <h4>TunnelBear Cub</h4>
+              <p class="name">Engineering Co-op</p>
+              <p class="bio small-copy">
+                Engineering or Computer Science Co-op. I'm mad brilliant. I’ve shipped
+                some software. I'm into digital privacy. I'm willing to occasionally
+                wear a 9ft bear suit. I'm you?!
+              </p>
+              <a href="/jobs/developer-cub">Apply Now</a>
+            </div>
+          </div>
+          <div class="bear-profile col-xs-12 col-md-6">
+            <div class="bearatar">
+              <img class="regular-avatar" src="images/bearatars/blankbear.jpg" alt="Employee Avatar">
+              <img class="retina-avatar" src="images/bearatars/blankbear@2x.jpg" alt="Employee Avatar">
+            </div>
+            <div class="bear-info">
+              <h4>TunnelBear Cub</h4>
+              <p class="name">Business Co-op</p>
+              <p class="bio small-copy">
+                Business or Marketing Co-op. I might not be a developer, but I know
+                something about software and I want to learn more. I'm into digital
+                privacy. I’m far more organized than the average bear. I get social media #tunnelbear. I'm you?!
+              </p>
+              <!-- a>Apply Now</a -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="be-a-bear">
+    <div class="container">
+      <h2>Wanna be a bear?</h2>
+      <a href="/jobs">TunnelBear Jobs</a>
+    </div>
+  </section>
+
+  <section id="bear-cave">
+    <div class="cave-content">
+      <div class="cave-info">
+        <div class="cave"></div>
+        <h4>The Bear Cave</h4>
+        <p>141 Bathurst Street, Suite 101<br>Toronto, Ontario, M5V 2R2</p>
+      </div>
+      <div class="chevron">
+      </div>
+    </div>
+  </section>
+
+  <section id="site-links">
+    <div class="container">
+      <div class="site-link col-xs-12 col-sm-6">
+        <h4>Need help with your bear?</h4>
+        <a href="//help.tunnelbear.com/">Help Center</a>
+      </div>
+      <div class="site-link col-xs-12 col-sm-6">
+        <h4>Question, comment or bear&nbsp;pun?</h4>
+        <a href="/support#/contact">Contact Us</a>
+      </div>
+    </div>
+  </section>
+</div>
+
+<script type="text/javascript">
+  $(document).ready(function() {
+    $('.learn-more').on('click', function() {
+      var $this = $(this);
+
+      if ($this.hasClass('default')) {
+        $this.removeClass('default');
+        $this.addClass('open');
+      } else if ($this.hasClass('open')) {
+        $this.removeClass('open');
+        $this.addClass('closed');
+      } else {
+        $this.removeClass('closed');
+        $this.addClass('open');
+      }
+
+      $('#profile-wrap').fadeToggle();
+    });
+  });
+</script>
+
+      <footer class="col-md-12">
+  <div>
+    <section id="brand" class="hidden-sm hidden-xs col-md-4">
+      <header><a href="/" title="TunnelBear VPN"></a></header>
+      <p class="fine-print-lg">Really really simple privacy apps</p>
+      <p class="fine-print legal">©2017 TunnelBear Inc.</p>
+      <p class="fine-print legal">Grizzly regards from Toronto, Canada</p>
+    </section>
+    <section class="sitemap col-xs-6 col-md-2">
+      <header>TUNNELBEAR</header>
+      <div>
+        <a class="fine-print-lg" href="/why-vpn">Why VPN?</a>
+        <a class="fine-print-lg" href="/download">Download</a>
+        <a class="fine-print-lg" href="/features">Features</a>
+        <a class="fine-print-lg" href="/pricing">Pricing</a>
+        <a class="fine-print-lg" href="/business">TunnelBear For Teams</a>
+        <a class="fine-print-lg" href="//help.tunnelbear.com/" rel="nofollow">Help</a>
+        <a class="fine-print-lg" href="/account#/overview">My Account</a>
+      </div>
+    </section>
+    <section class="sitemap col-xs-6 col-md-2">
+      <header>APPS</header>
+      <div>
+        <a class="fine-print-lg" href="/apps/ios">iPhone &amp; iPad</a>
+        <a class="fine-print-lg" href="/apps/android">Android</a>
+        <a class="fine-print-lg" href="/apps/mac">Mac</a>
+        <a class="fine-print-lg" href="/apps/windows">Windows</a>
+        <a class="fine-print-lg" href="/apps/browser">Browser</a>
+        <a class="fine-print-lg" href="/apps/blocker">Blocker</a>
+      </div>
+    </section>
+    <section class="sitemap company col-xs-6 col-md-2">
+      <header>COMPANY</header>
+      <div>
+        <a class="fine-print-lg" href="https://www.tunnelbear.com/blog">Blog</a>
+        <a class="fine-print-lg" href="/about">About Us</a>
+        <a class="fine-print-lg" href="/jobs">Jobs</a>
+        <a class="fine-print-lg" href="/partner">Partner</a>
+        <a class="fine-print-lg" href="/privacy-policy">Privacy Policy</a>
+        <a class="fine-print-lg" href="/tos">Terms of Service</a>
+      </div>
+    </section>
+    <section id="follow-us" class="sitemap col-xs-6 col-md-2">
+      <header>FOLLOW US</header>
+      <a id="fb-icon" class="icon" href="//www.facebook.com/tunnelbear"></a>
+      <a id="tw-icon" class="icon" href="//twitter.com/thetunnelbear"></a>
+      <a id="gp-icon" class="icon" href="//plus.google.com/+tunnelbear"></a>
+    </section>
+    <section id="brand" class="col-xs-12 hidden-md hidden-lg">
+      <header><a href="/" title="TunnelBear VPN"></a></header>
+      <p class="fine-print-lg">Really really simple privacy apps</p>
+      <p class="fine-print legal">©2017 TunnelBear Inc.</p>
+      <p class="fine-print legal">Grizzly regards from Toronto, Canada</p>
+    </section>
+  </div>
+</footer>
+
+    </div>
+
+    <span id="pi" onclick="pi();">π</span>
+
+    <script type="text/javascript" src="/javascripts/layout.js"></script>
+
+    
+      <script type="text/javascript" src="/bower_components/scroll-depth/jquery.scrolldepth.min.js"></script>
+      <script type="text/javascript">
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-23359981-6', 'auto');
+        ga('set', 'anonymizeIp', true);
+        ga('send', 'pageview');
+      </script>
+      <script type="text/javascript">
+        jQuery(function() {
+          jQuery.scrollDepth({
+            elements: ['#main-cta', '#media', '#browse-private', '#unblock-web', '#join-family', 'footer'],
+            userTiming: true,
+            pixelDepth: true,
+            gtmOverride: true
+          });
+        });
+      </script>
+    
+  
+
+</body></html>
